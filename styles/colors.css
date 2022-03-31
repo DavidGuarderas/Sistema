@@ -1,0 +1,31 @@
+#menu ul li{
+	display: inline-block;
+}
+#menu ul li a{
+	color: rgb(214, 203, 203);
+    display: block;
+    padding: 9px 90px;
+}
+#menu{
+    background-color:#ffffff;
+    text-align: center;
+
+}
+#menu ul li a:hover{
+    background: #00BFFF;
+}
+header{
+    background-color: #1533df
+}
+body{
+    background-color: #dfe4f5;
+}
+form{
+    background-color: #bebfca;
+}
+div.field{
+    background-color: #bebfca;
+}
+main{
+    background-color: #bebfca;
+}
